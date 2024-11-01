@@ -28,8 +28,8 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/YourUsername/DiscordMemberMiner.git
-   cd DiscordMemberMiner
+   git clone https://github.com/Tentoxa/DiscordMemberScraper.git
+   cd DiscordMemberScraper
    ```
 
 2. **Install Dependencies**:
