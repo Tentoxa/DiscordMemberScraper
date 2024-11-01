@@ -1,4 +1,4 @@
-# 🕵️‍♀️ DiscordMemberScraper 🚀
+<h1 align="center">🕵️‍♀️ DiscordMemberScraper 🚀</h1>
 
 <p align="center">
   A very simple selfbot script to scrape members from a discord server.
